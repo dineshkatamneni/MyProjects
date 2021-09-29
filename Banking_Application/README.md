@@ -1,2 +1,2 @@
-# Group 15
+# Wayne Banking application
 
