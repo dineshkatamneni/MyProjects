@@ -1,6 +1,2 @@
-# CSCI5409 - Group 5
-
-### Deployment URL
-
-http://ecrire.us-east-1.elasticbeanstalk.com/
-
+# To Do List Application hosted on AWS
+This is a cloud based application that uses a multitude of aws services. The front end utilizes elastic beanstalk for running React JS, aws cognito for authentication, aws serverless lambda for performing basic crud operations on dynamo db, aws sns and aws sqs for email notifications to the user. The email notification alerts the user about his pending to do lists.
